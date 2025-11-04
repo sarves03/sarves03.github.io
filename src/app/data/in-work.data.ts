@@ -1,12 +1,19 @@
 import { TechToolName } from '@data/schema/tech-tool-name.schema';
 
 const inWorkData: TechToolName[] = [
-  'Laravel',
-  'Tailwind CSS',
-  'Figma',
+  'HTML',
+  'CSS',
+  'Bootstrap',
+  'MaterialUI',
+  'JavaScript',
+  'TypeScript',
   'Angular',
-  'Jest',
-  'Firebase'
+  'Node JS',
+  'Express JS',
+  'MongoDB',
+  'Git',
+  'Bitbucket',
+  'Figma',
 ];
 
 export default inWorkData;

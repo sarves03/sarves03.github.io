@@ -1,4 +1,9 @@
-import { ChangeDetectionStrategy, Component, ViewEncapsulation, inject } from '@angular/core';
+import {
+  ChangeDetectionStrategy,
+  Component,
+  ViewEncapsulation,
+  inject,
+} from '@angular/core';
 import { MetaService } from '@core/services/meta.service';
 import profileData from '@data/profile.data';
 import { ExpertiseArea } from '@pages/home/components/expertise-area/expertise-area';
@@ -14,34 +19,34 @@ import { Loader } from '@shared/components/loader/loader';
   imports: [ExpertiseArea, Intro, LanguageTools, InWork, Loader],
   template: `
     @defer(on immediate){
-      <intro/>
-      <expertise-area/>
-      <language-tools/>
-      <in-work/>
+    <intro />
+    <expertise-area />
+    <language-tools />
+    <in-work />
     }@placeholder {
-      <loader/>
+    <loader />
     }
-  `
+  `,
 })
 export class HomePage {
   metaService = inject(MetaService);
   constructor() {
     this.metaService.setMetaTags(
       `Home - ${profileData.name}`,
-      'Dive into my portfolio, a passionate software engineer based in the Philippines. Explore the intricacies of my journey, from personal details to exciting projects. Join me on this virtual exploration of technology, creativity, and more.',
+      'Explore the portfolio of Sarveswaran S D — a MEAN stack developer from Chennai, India. Discover my work in web application development, cybersecurity integration, and functional safety systems. Join me in building secure and scalable digital solutions.',
       [
-        'marc kevin flores',
-        'marc kevin',
-        'marckevinflores',
-        'software engineer',
-        'philippines',
-        'bio',
-        'developer',
+        'Sarveswaran S D',
+        'Sarveswaran',
+        'sarves2003',
+        'MEAN stack developer',
+        'Angular developer',
+        'Node.js',
+        'MongoDB',
+        'web development',
+        'cybersecurity',
+        'functional safety',
+        'CIS Automation',
         'portfolio',
-        'development',
-        'android',
-        'web',
-        'ios',
       ]
     );
   }

@@ -33,6 +33,7 @@ interface Path extends ThemeColor {
 }
 interface DevIcon {
   viewBox: string;
+  defs?: any;
   linearGradient?: LinearGradient[];
   path?: Path[];
   ellipse?: Ellipse[];

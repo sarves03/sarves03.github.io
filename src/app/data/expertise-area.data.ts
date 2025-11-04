@@ -1,27 +1,26 @@
 import { ExpertiseAreaSchema } from "@data/schema/expertise-area.schema";
-import { site, api, mobile, monitor, speed, search } from '@icon/regular.icon'
-
+import { site, api, database, lock, speed, monitor } from '@icon/regular.icon'
 
 const expertiseAreaData: ExpertiseAreaSchema[] = [
   {
     icon: site,
     percent: '90%',
-    name: 'Web Development'
+    name: 'Frontend (Angular)'
   },
   {
     icon: api,
-    percent: '60%',
-    name: 'API Development'
+    percent: '85%',
+    name: 'Backend (Node.js & Express)'
   },
   {
-    icon: mobile,
+    icon: database,
+    percent: '80%',
+    name: 'Database (MongoDB)'
+  },
+  {
+    icon: lock,
     percent: '70%',
-    name: 'Mobile Development'
-  },
-  {
-    icon: monitor,
-    percent: '30%',
-    name: 'UX/UI Design'
+    name: 'Cybersecurity Integration'
   },
   {
     icon: speed,
@@ -29,10 +28,10 @@ const expertiseAreaData: ExpertiseAreaSchema[] = [
     name: 'Performance Optimization'
   },
   {
-    icon: search,
-    percent: '20%',
-    name: 'Unit Testing'
+    icon: monitor,
+    percent: '65%',
+    name: 'Functional Safety Systems'
   },
 ]
 
-export default expertiseAreaData
+export default expertiseAreaData;

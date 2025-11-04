@@ -22,6 +22,8 @@ export type TechToolName =
   | 'Express JS'
   | 'Socket.io'
   | 'Git'
+  | 'Bitbucket'
+  | 'MaterialUI'
   | 'MySQL'
   | 'SQLite'
   | 'MongoDB'

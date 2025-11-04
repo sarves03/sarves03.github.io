@@ -43,5 +43,4 @@ export class App implements OnInit {
       this.renderer.appendChild(this.document.head, script);
     }
   }
-
 }
