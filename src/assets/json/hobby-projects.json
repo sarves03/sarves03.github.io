@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "title": "Dating Website App",
+        "description": "Dating website written in .NET Core and Angular",
+        "createdAt": "2024-01-20T09:35:10.338Z",
+        "updatedAt": "2024-01-20T14:36:07.725Z",
+        "publishedAt": "2024-01-20T13:46:08.323Z",
+        "featured": null,
+        "tools": {
+          "data": [
+            {
+              "id": 10,
+              "attributes": {
+                "name": ".NET Core",
+                "createdAt": "2024-01-18T13:51:26.201Z",
+                "updatedAt": "2024-01-18T13:51:26.201Z",
+                "publishedAt": "2024-01-18T14:17:00.065Z"
+              }
+            },
+            {
+              "id": 12,
+              "attributes": {
+                "name": "Angular",
+                "createdAt": "2024-01-18T13:51:39.756Z",
+                "updatedAt": "2024-01-18T13:51:39.756Z",
+                "publishedAt": "2024-01-18T14:17:00.065Z"
+              }
+            },
+            {
+              "id": 19,
+              "attributes": {
+                "name": "Bootstrap",
+                "createdAt": "2024-01-18T13:52:28.394Z",
+                "updatedAt": "2024-01-18T13:52:28.394Z",
+                "publishedAt": "2024-01-18T14:17:00.065Z"
+              }
+            },
+            {
+              "id": 25,
+              "attributes": {
+                "name": "SQLite",
+                "createdAt": "2024-01-18T13:53:15.625Z",
+                "updatedAt": "2024-01-18T13:53:15.625Z",
+                "publishedAt": "2024-01-18T14:17:27.537Z"
+              }
+            }
+          ]
+        },
+        "images": { "data": null },
+        "links": {
+          "id": 2,
+          "website": null,
+          "playstore": null,
+          "github": "https://bitbucket.org/marckevinflores/datingapp",
+          "appstore": null
+        },
+        "picture": {
+          "data": {
+            "id": 44,
+            "attributes": {
+              "name": "love_7390600.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 256,
+              "height": 256,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_love_7390600.png",
+                  "hash": "thumbnail_love_7390600_f47bb27299",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 6.84,
+                  "url": "https://d2jdz9u7zioman.cloudfront.net/blogs/thumbnail_love_7390600_f47bb27299.png"
+                }
+              },
+              "hash": "love_7390600_f47bb27299",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 1.65,
+              "url": "https://d2jdz9u7zioman.cloudfront.net/blogs/love_7390600_f47bb27299.png",
+              "previewUrl": null,
+              "provider": "aws-s3",
+              "provider_metadata": null,
+              "createdAt": "2024-01-20T09:35:05.266Z",
+              "updatedAt": "2024-01-20T09:35:05.266Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "Usap Chat",
+        "description": "A real-time chat application with chat rooms",
+        "createdAt": "2024-01-20T09:39:55.617Z",
+        "updatedAt": "2024-03-05T15:43:42.678Z",
+        "publishedAt": "2024-01-20T13:46:08.323Z",
+        "featured": null,
+        "tools": {
+          "data": [
+            {
+              "id": 9,
+              "attributes": {
+                "name": "Node JS",
+                "createdAt": "2024-01-18T13:51:17.757Z",
+                "updatedAt": "2024-01-18T13:51:17.757Z",
+                "publishedAt": "2024-01-18T14:17:27.537Z"
+              }
+            },
+            {
+              "id": 21,
+              "attributes": {
+                "name": "Express JS",
+                "createdAt": "2024-01-18T13:52:45.284Z",
+                "updatedAt": "2024-01-18T13:52:45.284Z",
+                "publishedAt": "2024-01-18T14:17:00.065Z"
+              }
+            },
+            {
+              "id": 22,
+              "attributes": {
+                "name": "Socket.io",
+                "createdAt": "2024-01-18T13:52:55.643Z",
+                "updatedAt": "2024-01-18T13:52:55.643Z",
+                "publishedAt": "2024-01-18T14:17:27.537Z"
+              }
+            },
+            {
+              "id": 13,
+              "attributes": {
+                "name": "React",
+                "createdAt": "2024-01-18T13:51:46.203Z",
+                "updatedAt": "2024-01-18T13:51:46.203Z",
+                "publishedAt": "2024-01-18T14:17:27.537Z"
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "name": "TypeScript",
+                "createdAt": "2024-01-18T13:50:31.344Z",
+                "updatedAt": "2024-01-18T13:50:31.344Z",
+                "publishedAt": "2024-01-18T14:17:27.537Z"
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "name": "Tailwind CSS",
+                "createdAt": "2024-01-18T13:52:38.173Z",
+                "updatedAt": "2024-01-18T13:52:38.173Z",
+                "publishedAt": "2024-01-18T14:17:27.537Z"
+              }
+            }
+          ]
+        },
+        "images": { "data": null },
+        "links": {
+          "id": 3,
+          "website": "https://usap-chat.netlify.app",
+          "playstore": null,
+          "github": "https://github.com/marckevinflores/usap-chat",
+          "appstore": null
+        },
+        "picture": {
+          "data": {
+            "id": 60,
+            "attributes": {
+              "name": "New Project.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 256,
+              "height": 256,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_New Project.png",
+                  "hash": "thumbnail_New_Project_893e62ead9",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 6.88,
+                  "url": "https://d2jdz9u7zioman.cloudfront.net/blogs/thumbnail_New_Project_893e62ead9.png"
+                }
+              },
+              "hash": "New_Project_893e62ead9",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 1.74,
+              "url": "https://d2jdz9u7zioman.cloudfront.net/blogs/New_Project_893e62ead9.png",
+              "previewUrl": null,
+              "provider": "aws-s3",
+              "provider_metadata": null,
+              "createdAt": "2024-03-05T15:43:39.157Z",
+              "updatedAt": "2024-03-05T15:43:39.157Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 5 }
+  }
+}
