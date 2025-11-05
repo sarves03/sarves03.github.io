@@ -29,7 +29,7 @@ import { ToolbarColor } from '@shared/components/toolbar-color/toolbar-color'
   <toolbar-color/>
   <div class="max-w-screen-lg flex flex-wrap items-center justify-between mx-auto p-4 border-y border-gray-200 dark:border-gray-800 hover:border-gray-300 dark:hover:border-gray-700">
     <logo class="dark:text-white text-black"/>
-    <div class="flex lg:order-2 lg:space-x-0">
+    <!--<div class="flex lg:order-2 lg:space-x-0">
       <button (click)="darkModeService.toggleDarkMode()" type="button" aria-label="DarkMode"
         class="mx-1 inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600">
         <icon [path]="icon()" [size]="20" iconClass="dark:fill-white fill-black"></icon>
@@ -48,7 +48,7 @@ import { ToolbarColor } from '@shared/components/toolbar-color/toolbar-color'
           </div>
         </div>
       </button>
-    </div>
+    </div> -->
     <div class="w-full ml-auto lg:w-auto lg:order-1 flex lg:block min-h-96 lg:min-h-0 items-center"
       [ngClass]="{ 'hidden': !open}">
       <ul
