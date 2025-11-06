@@ -84,8 +84,9 @@ export class Navbar {
     const darkMode = this.darkModeService.isDark();
     const root = this.document.documentElement;
     const favicon = this.document.querySelector("link[rel*='icon']");
-    const newFaviconHref = `assets/icons/favicon-${darkMode ? 'dark' : 'light'
-      }.png`;
+    const newFaviconHref = `assets/logo/colored-logo.png`;
+    // const newFaviconHref = `assets/icons/favicon-${darkMode ? 'dark' : 'light'
+    //   }.png`;
     this.renderer.setAttribute(favicon, 'href', newFaviconHref);
     root.classList[darkMode ? 'add' : 'remove']('dark');
   }

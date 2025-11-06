@@ -1,7 +1,7 @@
 export const environment = {
   production: false,
   mainColor: '#3867d6',
-  url: 'http://localhost:4200',
+  url: 'http://localhost:52897',
   umamiWebsiteId: '',
   spotify: {
     apiURL: 'https://api.spotify.com/v1/',

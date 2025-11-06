@@ -8,7 +8,7 @@ export interface ProjectSchema {
   links: ProjectLinks;
   tools: TechToolName[];
   featured: boolean;
-  image: string;
+  image: any;
   toRight?: boolean
 }
 
