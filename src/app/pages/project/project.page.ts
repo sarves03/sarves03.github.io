@@ -15,12 +15,16 @@ import { OtherProject } from '@pages/project/components/other-project'
   template: `
     <h1
       class="text-brand-primary mt-2 text-center text-3xl font-semibold tracking-tight lg:text-4xl lg:leading-snug dark:text-white">
-      Projects
+      Projects  <span class="block text-sm font-normal text-gray-500 dark:text-gray-400 mt-1">
+    (Developed in My Company)
+  </span>
     </h1>
     <feature-project/>
     <h1
       class="text-brand-primary text-center text-3xl font-semibold tracking-tight lg:text-2xl lg:leading-snug dark:text-white">
-      Other Hobby Projects
+      Mini Projects <span class="block text-sm font-normal text-gray-500 dark:text-gray-400 mt-1">
+    (Completed During Internship & Learning Phase)
+  </span>
     </h1>
     <other-project/>
 `

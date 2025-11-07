@@ -232,7 +232,7 @@
       "id": 4,
       "attributes": {
         "title": "Sigma Scanner Trading Application",
-        "description": "Trading and investment management suite with live Zerodha and Zebu tracking, FIFO-based returns, SIP calculator, and dynamic stock table.",
+        "description": "Sigma Scanner is a trading and investment platform that enables users to backtest strategies and execute real-time buy and sell orders through Zerodha and Zebu. It features FIFO-based returns, SIP analysis, and a dynamic stock table for portfolio tracking and insights.",
         "createdAt": "2024-01-20T14:08:46.981Z",
         "updatedAt": "2024-01-20T14:35:41.790Z",
         "publishedAt": "2024-01-20T14:20:53.279Z",
@@ -346,7 +346,7 @@
       "id": 5,
       "attributes": {
         "title": "FSMS (Functional Safety Management)",
-        "description": "System-based safety management app featuring LOPA, SRS, reliability, PFD, and HFT calculations with JointJS visualization.",
+        "description": "FSMS is a system-based functional safety management platform with LOPA, SRS, reliability, PFD, and HFT calculations. It uses JointJS for fault tree visualization, supports RBAC, and enables efficient project management with real-time system safety insights.",
         "createdAt": "2024-01-20T14:18:32.074Z",
         "updatedAt": "2024-01-20T14:35:15.768Z",
         "publishedAt": "2024-01-20T14:20:53.279Z",
@@ -460,7 +460,7 @@
       "id": 6,
       "attributes": {
         "title": "ISMS (ISO 27001 Tool)",
-        "description": "CISAutomation’s ISO 27001 assessment platform with RBAC, project management, risk analysis, and SoA reporting.",
+        "description": "ISMS is a tool that helps companies follow ISO 27001 standards easily. It lets users check compliance, manage risks, and improve security. The app includes modules for assessment, reports, risk checks, user control, and the Statement of Applicability.",
         "createdAt": "2024-01-20T14:20:47.365Z",
         "updatedAt": "2024-01-20T14:34:29.252Z",
         "publishedAt": "2024-01-20T14:20:53.279Z",

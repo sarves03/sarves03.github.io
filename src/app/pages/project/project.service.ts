@@ -68,7 +68,7 @@ export class ProjectService {
         },
         featured: item.attributes.featured,
         tools: item.attributes.tools.data?.map((t: any) => t.attributes.name),
-        image: images.data && images.data[0].attributes.formats.large.url
+        image: images.data
       }
     })
     return projects as ProjectSchema[];
