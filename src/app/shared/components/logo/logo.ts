@@ -1,5 +1,6 @@
-import { Component, ViewEncapsulation } from '@angular/core';
+import { Component, inject, ViewEncapsulation } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { DarkModeService } from '@core/services/dark-mode.service';
 @Component({
   selector: 'logo',
   imports: [RouterLink],
@@ -13,7 +14,9 @@ import { RouterLink } from '@angular/router';
       <path d="M7.49998 1L3.49998 3.5L3.49998 5L3.49998 6.5L7.49998 4" stroke="currentColor" stroke-linecap="round" />
     </svg> -->
       <img
-        src="../../assets/logo/colored-logo.png"
+        [src]="darkModeService.isDark()
+          ? '../../assets/logo/colored-logo.png'
+          : '../../assets/logo/portfolio-logo.png'"
         alt="icon"
         width="40"
         height="40"
@@ -21,4 +24,7 @@ import { RouterLink } from '@angular/router';
     </a>
   `,
 })
-export class Logo {}
+export class Logo {
+
+  darkModeService = inject(DarkModeService);
+}

@@ -11,16 +11,18 @@ export class DarkModeService {
     this.saveDarkModeState();
   }
 
+  // private getInitialDarkModeState(): boolean {
+  //   if (typeof window !== 'undefined') {
+  //     const storedTheme = localStorage.getItem('theme');
+  //     if (storedTheme === 'dark' || (!storedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+  //       return true;
+  //     }
+  //   }
+  //   return false;
+  // }
   private getInitialDarkModeState(): boolean {
-    if (typeof window !== 'undefined') {
-      const storedTheme = localStorage.getItem('theme');
-      if (storedTheme === 'dark' || (!storedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        return true;
-      }
-    }
-    return false;
+    return true;
   }
-
   private saveDarkModeState() {
     (localStorage as any).theme = this.state() ? 'dark' : 'light';
   }

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "HTML",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "CSS",
+    "url": "https://en.wikipedia.org/wiki/CSS"
+  },
+  {
+    "name": "SASS",
+    "url": "https://sass-lang.com/"
+  },
+  {
+    "name": "Bootstrap",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "name": "MaterialUI",
+    "url": "https://material.angular.dev/"
+  },
+  {
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com/"
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://en.wikipedia.org/wiki/JavaScript"
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://www.typescriptlang.org/"
+  },
+  {
+    "name": "JQuery",
+    "url": "https://jquery.com/"
+  },
+  {
+    "name": "Angular",
+    "url": "https://angular.dev/"
+  },
+  {
+    "name": "React",
+    "url": "https://react.dev/"
+  },
+  {
+    "name": "Node JS",
+    "url": "https://nodejs.org/en/about"
+  },
+  {
+    "name": "Express JS",
+    "url": "https://expressjs.com/"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://www.mongodb.com/"
+  },
+  {
+    "name": "Git",
+    "url": "https://git-scm.com/"
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/"
+  },
+  {
+    "name": "Firebase",
+    "url": "https://firebase.google.com/"
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/"
+  }
+]
