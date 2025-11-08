@@ -40,7 +40,7 @@ import { ZoomImageDirective } from '@shared/directives/zoom-image/zoom-image.dir
     >
       <img
         skeleton
-        src="../../assets/image/sarves-image.png"
+        src="./assets/image/sarves-image.png"
         alt="Sarveswaran S D"
         class="rounded-2xl shadow-lg w-[200px] h-[300px] object-cover"
       />

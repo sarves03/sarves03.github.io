@@ -15,8 +15,8 @@ import { DarkModeService } from '@core/services/dark-mode.service';
     </svg> -->
       <img
         [src]="darkModeService.isDark()
-          ? '../../assets/logo/colored-logo.png'
-          : '../../assets/logo/portfolio-logo.png'"
+          ? './assets/logo/colored-logo.png'
+          : './assets/logo/portfolio-logo.png'"
         alt="icon"
         width="40"
         height="40"
