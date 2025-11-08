@@ -68,7 +68,7 @@
           ]
         },
         "images": {
-          "data": "../../assets/image/CTRHub.png"
+          "data": "./assets/image/CTRHub.png"
         },
         "links": {
           "id": 2,
@@ -96,14 +96,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.84,
-                  "url": "../../assets/image/CTRHub.png"
+                  "url": "./assets/image/CTRHub.png"
                 }
               },
               "hash": "love_7390600_f47bb27299",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.65,
-              "url": "../../assets/image/CTRHub.png",
+              "url": "./assets/image/CTRHub.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -182,7 +182,7 @@
           ]
         },
         "images": {
-          "data": "../../assets/image/Unijet.png"
+          "data": "./assets/image/Unijet.png"
         },
         "links": {
           "id": 3,
@@ -210,14 +210,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.88,
-                  "url": "../../assets/image/Unijet.png"
+                  "url": "./assets/image/Unijet.png"
                 }
               },
               "hash": "New_Project_893e62ead9",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.74,
-              "url": "../../assets/image/Unijet.png",
+              "url": "./assets/image/Unijet.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -296,7 +296,7 @@
           ]
         },
         "images": {
-          "data": "../../assets/image/Sigmascanner.png"
+          "data": "./assets/image/Sigmascanner.png"
         },
         "links": {
           "id": 4,
@@ -324,14 +324,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 2.3,
-                  "url": "../../assets/image/Sigmascanner.png"
+                  "url": "./assets/image/Sigmascanner.png"
                 }
               },
               "hash": "developer_8812481_6d7e683686",
               "ext": ".jpg",
               "mime": "image/jpeg",
               "size": 4.42,
-              "url": "../../assets/image/Sigmascanner.png",
+              "url": "./assets/image/Sigmascanner.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -410,7 +410,7 @@
           ]
         },
         "images": {
-          "data": "../../assets/image/FSMS.png"
+          "data": "./assets/image/FSMS.png"
         },
         "links": {
           "id": 5,
@@ -438,14 +438,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 2.26,
-                  "url": "../../assets/image/FSMS.png"
+                  "url": "./assets/image/FSMS.png"
                 }
               },
               "hash": "route_8750563_1_407ee76dd3",
               "ext": ".jpg",
               "mime": "image/jpeg",
               "size": 4.33,
-              "url": "../../assets/image/FSMS.png",
+              "url": "./assets/image/FSMS.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -524,7 +524,7 @@
           ]
         },
         "images": {
-          "data": "../../assets/image/ISMS.png"
+          "data": "./assets/image/ISMS.png"
         },
         "links": {
           "id": 6,
@@ -552,14 +552,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 2.81,
-                  "url": "../../assets/image/ISMS.png"
+                  "url": "./assets/image/ISMS.png"
                 }
               },
               "hash": "online_dating_8652bec36f",
               "ext": ".jpg",
               "mime": "image/jpeg",
               "size": 4.46,
-              "url": "../../assets/image/ISMS.png",
+              "url": "./assets/image/ISMS.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
