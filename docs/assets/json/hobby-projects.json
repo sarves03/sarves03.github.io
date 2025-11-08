@@ -61,7 +61,7 @@
             }
           ]
         },
-        "images": { "data": "../../assets/image/Mini-project.png" },
+        "images": { "data": "./assets/image/Mini-project.png" },
         "links": {
           "id": 3,
           "website": "",
@@ -88,14 +88,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.88,
-                  "url": "../../assets/image/Mini-project.png"
+                  "url": "./assets/image/Mini-project.png"
                 }
               },
               "hash": "New_Project_893e62ead9",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.74,
-              "url": "../../assets/image/Mini-project.png",
+              "url": "./assets/image/Mini-project.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -167,7 +167,7 @@
             }
           ]
         },
-        "images": { "data": "../../assets/image/Mini-project.png" },
+        "images": { "data": "./assets/image/Mini-project.png" },
         "links": {
           "id": 3,
           "website": null,
@@ -194,14 +194,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.88,
-                  "url": "../../assets/image/Mini-project.png"
+                  "url": "./assets/image/Mini-project.png"
                 }
               },
               "hash": "New_Project_893e62ead9",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.74,
-              "url": "../../assets/image/Mini-project.png",
+              "url": "./assets/image/Mini-project.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -249,7 +249,7 @@
             }
           ]
         },
-        "images": { "data": "../../assets/image/Mini-project.png" },
+        "images": { "data": "./assets/image/Mini-project.png" },
         "links": {
           "id": 2,
           "website": "https://business-landing-page-1.web.app",
@@ -276,14 +276,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.84,
-                  "url": "../../assets/image/Mini-project.png"
+                  "url": "./assets/image/Mini-project.png"
                 }
               },
               "hash": "love_7390600_f47bb27299",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.65,
-              "url": "../../assets/image/Mini-project.png",
+              "url": "./assets/image/Mini-project.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -337,7 +337,7 @@
             }
           ]
         },
-        "images": { "data": "../../assets/image/Mini-project.png" },
+        "images": { "data": "./assets/image/Mini-project.png" },
         "links": {
           "id": 3,
           "website": "https://enquiry-form-f020a.web.app",
@@ -364,14 +364,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.88,
-                  "url": "../../assets/image/Mini-project.png"
+                  "url": "./assets/image/Mini-project.png"
                 }
               },
               "hash": "New_Project_893e62ead9",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.74,
-              "url": "../../assets/image/Mini-project.png",
+              "url": "./assets/image/Mini-project.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -425,7 +425,7 @@
             }
           ]
         },
-        "images": { "data": "../../assets/image/Mini-project.png" },
+        "images": { "data": "./assets/image/Mini-project.png" },
         "links": {
           "id": 3,
           "website": "https://form-validation-66dc8.web.app",
@@ -452,14 +452,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.88,
-                  "url": "../../assets/image/Mini-project.png"
+                  "url": "./assets/image/Mini-project.png"
                 }
               },
               "hash": "New_Project_893e62ead9",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.74,
-              "url": "../../assets/image/Mini-project.png",
+              "url": "./assets/image/Mini-project.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
@@ -507,7 +507,7 @@
             }
           ]
         },
-        "images": { "data": "../../assets/image/Mini-project.png" },
+        "images": { "data": "./assets/image/Mini-project.png" },
         "links": {
           "id": 3,
           "website": "https://calculator-2003.web.app",
@@ -534,14 +534,14 @@
                   "width": 156,
                   "height": 156,
                   "size": 6.88,
-                  "url": "../../assets/image/Mini-project.png"
+                  "url": "./assets/image/Mini-project.png"
                 }
               },
               "hash": "New_Project_893e62ead9",
               "ext": ".png",
               "mime": "image/png",
               "size": 1.74,
-              "url": "../../assets/image/Mini-project.png",
+              "url": "./assets/image/Mini-project.png",
               "previewUrl": null,
               "provider": "aws-s3",
               "provider_metadata": null,
